@@ -1,0 +1,12 @@
+h3 {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-align: center;
+    margin-top: 20px;
+}
+
+a {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
